@@ -1,0 +1,6 @@
+F:\ffmpeg code\helloffmpeg\x64\Debug\helloffmpeg.exe
+F:\ffmpeg code\helloffmpeg\x64\Debug\helloffmpeg.pdb
+F:\ffmpeg code\capture_screen\x64\Debug\helloffmpeg.exe
+F:\ffmpeg code\capture_screen\x64\Debug\helloffmpeg.pdb
+C:\Users\hsq\Desktop\capture_screen\x64\Debug\helloffmpeg.exe
+C:\Users\hsq\Desktop\capture_screen\x64\Debug\helloffmpeg.pdb

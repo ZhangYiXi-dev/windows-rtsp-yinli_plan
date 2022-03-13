@@ -1,0 +1,23 @@
+﻿  helloffmpeg.cpp
+C:\Users\hsq\Desktop\capture_screen\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(48,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(148,38): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(149,69): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(154,62): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(255,12): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(315,23): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(345,26): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(116,2): warning C4996: 'av_register_all': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(178,56): warning C4996: 'avpicture_get_size': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(180,2): warning C4996: 'avpicture_fill': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(257,46): warning C4996: 'avpicture_get_size': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(258,2): warning C4996: 'avpicture_fill': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(261,51): warning C4996: 'avpicture_get_size': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(262,2): warning C4996: 'avpicture_fill': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(277,21): warning C4996: 'avpicture_get_size': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(293,5): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(302,15): warning C4996: 'avcodec_encode_video2': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(327,6): warning C4996: 'av_free_packet': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(331,3): warning C4996: 'av_free_packet': 被声明为已否决
+C:\Users\hsq\Desktop\capture_screen\helloffmpeg.cpp(92): warning C4715: “ThreadProFunc”: 不是所有的控件路径都返回值
+  helloffmpeg.vcxproj -> C:\Users\hsq\Desktop\capture_screen\x64\Debug\helloffmpeg.exe

@@ -1,0 +1,23 @@
+﻿  helloffmpeg.cpp
+C:\Users\hsq\Desktop\pusher\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(49,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(214,38): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(215,69): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(221,62): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(315,12): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(363,23): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(393,26): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(185,2): warning C4996: 'av_register_all': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(245,56): warning C4996: 'avpicture_get_size': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(247,2): warning C4996: 'avpicture_fill': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(330,21): warning C4996: 'avpicture_get_size': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(341,5): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(350,15): warning C4996: 'avcodec_encode_video2': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(375,6): warning C4996: 'av_free_packet': 被声明为已否决
+C:\Users\hsq\Desktop\pusher\helloffmpeg.cpp(379,3): warning C4996: 'av_free_packet': 被声明为已否决
+  正在生成代码
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  helloffmpeg.vcxproj -> C:\Users\hsq\Desktop\pusher\x64\Release\helloffmpeg.exe
