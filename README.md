@@ -4,3 +4,6 @@ pusher：实现对windows的抓屏，并将画面通过RTSP协议推流到云服
 client: 实现windows下拉流并显示；同时向云上的指令中转服务器发送键值
 云上：自行搭建RTSP服务器
 server.cpp:放在云服务器上的指令中转服务器
+
+延时约100ms
+
